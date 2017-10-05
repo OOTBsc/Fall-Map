@@ -1,0 +1,50 @@
+[{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Being": "#01",
+      "Location": "Shanghai, China",
+      "Physical Appearance": "Masculine",
+      "Property Damage": "Sidewalk ",
+      "Casualties": 5,
+      "Highest Bid of Feather": "£8,200,500",
+      "Additional Info": "Landed on a group of tourists who had all gathered at the same spot to take photo of a feather."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.453083, 31.207572]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Being": "#02",
+      "Location": "Mulanje, Malawi",
+      "Physical Appearance": "Feminine",
+      "Property Damage": "none",
+      "Casualties": 0,
+      "Highest Bid of Feather": "£8,200,500",
+      "Additional Info": "Found by a sleepwalker walking her dog through the forest."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.576238, -15.956534]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Being": "#03",
+      "Location": "San Juan del Sur, Nicaragua",
+      "Physical Appearance": "Feminine",
+      "Property Damage": "Big old boat named Lucky",
+      "Casualties": 2,
+      "Highest Bid of Feather": "€15,000,000",
+      "Additional Info": "Fell on the only boat that desided to go out that day because of the bad weather. The boat was called Lucky."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-85.894832, 11.241988]
+    }
+  }]
+}
+]

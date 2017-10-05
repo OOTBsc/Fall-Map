@@ -1,0 +1,122 @@
+var beings = [
+        {
+          "title": "Being#001",
+          "Being": "#001",
+          "Date": "7 December",
+          "Location": "Shanghai, China",
+          "PhysicalAppearance":  "Masculine. Silver hair and skin",
+          "Height": "1.89m",
+          "Wingspan": "2.55m",
+          "AdditionalInfo": "Fall caught on camera by Roberto Bartolucci, an Italian tourist. The video quickly became the most-watched in internet history.",
+          "lat": 31.181141,
+          "lng": 121.493981
+        },
+        {
+          "title": "Being#002",
+          "Being": "#002",
+          "Date": "10 December",
+          "Location": "Mulanje, Malawi",
+          "PhysicalAppearance":  "Feminine. Metallic red skin, almost black hair",
+          "Height": "1.78m",
+          "Wingspan": "2.42m",
+          "AdditionalInfo": "Landed in the hills just outside the town of Mulanje. Body retrieved by a young couple, who sold it to an American research centre for an undisclosed sum.",
+          "lat": -16.001607,
+          "lng": 35.526828
+        },
+        {
+          "title": "Being#003",
+          "Being": "#003",
+          "Date": "12 December",
+          "Location": "Off the coast of San Juan del Sur, Nicaragua",
+          "PhysicalAppearance":  "Feminine. Silver-coloured skin and hair",
+          "Height": "1.52m",
+          "Wingspan": "2.65m",
+          "AdditionalInfo": "Fell during a storm. Many of the feathers were torn from the Being’s wings and washed away – some were found along the coast of Costa Rica as much as five months later.",
+          "lat": 11.252655,
+          "lng": -85.882623
+        },
+        {
+          "title": "Being#004",
+          "Being": "#004",
+          "Date": "20 December",
+          "Location": "Hassi Messaoud, Algeria",
+          "PhysicalAppearance":  "Masculine. Golden skin, copper hair",
+          "Height": "1.59m",
+          "Wingspan": "2.38m",
+          "AdditionalInfo": "Fell in the desert. The Fall was spotted by a man travelling along the N3 road, recovered and sold to a South Korean research centre for a rumoured 227 billion won (approx. £150m).",
+          "lat": 29.933138,
+          "lng": 7.027990
+        },
+        {
+          "title": "Being#005",
+          "Being": "#005",
+          "Date": "21 December",
+          "Location": "Washed up on the island of Siberut, Indonesia",
+          "PhysicalAppearance":  "Feminine. Very pale bronze skin and hair",
+          "Height": "1.90m",
+          "Wingspan": "2.88m",
+          "AdditionalInfo": "The majority of the Being’s feathers were removed by a group of British and Danish tourists, who were later charged with vandalism of Indonesian public property and fined. The feathers were confiscated and are now on display in a museum in Jakarta.",
+          "lat": -1.778140,
+          "lng": 99.261392
+        },
+        {
+          "title": "Being#006",
+          "Being": "#006",
+          "Date": "22 December",
+          "Location": "Norwegian Sea – taken to Norway",
+          "PhysicalAppearance":  "Feminine. Dark metallic red skin, black hair",
+          "Height": "1.37m",
+          "Wingspan": "2.4m",
+          "AdditionalInfo": "Body retrieved by a Norwegian fishing boat. One of the fisherman onboard was named Alvin Engel, German for ‘angel’.",
+          "lat": 66.529616,
+          "lng": 2.693629
+        },
+        {
+          "title": "Being#007",
+          "Being": "#007",
+          "Date": "31 December",
+          "Location": "Perm, Russia",
+          "PhysicalAppearance":  "Feminine. Metallic brown skin, silver hair",
+          "Height": "1.67m",
+          "Wingspan": "2.76m",
+          "AdditionalInfo": "Fell in Yegoshika Cemetery, destroying several graves. The Being’s feathers were mostly removed by citizens visiting the cemetery – reports claimed the feathers sold for up to a million rubles (approx. £13,000) online.",
+          "lat": 58.012248,
+          "lng": 56.270432
+        },
+        {
+          "title": "Being#008",
+          "Being": "#008",
+          "Date": "1 January",
+          "Location": "Edinburgh, Scotland",
+          "PhysicalAppearance":  "Masculine. Dark copper skin, black hair",
+          "Height": "2m",
+          "Wingspan": "2.89m",
+          "AdditionalInfo": "Fell through the roof of St Giles’ Cathedral. Tours of the site are now available (£12/9 conc.)",
+          "lat": 55.949482,
+          "lng": -3.191297
+        },
+        {
+          "title": "Being#009",
+          "Being": "#009",
+          "Date": "5 January",
+          "Location": "Gulf of Guinea – taken to Togo",
+          "PhysicalAppearance":  "Feminine. Silver skin, white hair",
+          "Height": "1.88m",
+          "Wingspan": "2.66m",
+          "AdditionalInfo": "Fall happened too far from shore for anyone to witness it, but a 6-year-old girl named Adjo Talakaena saw it happen in a dream. Her father took her out on his boat and Adio was able to recover the body. She was later invited onto Ellen to discuss the discovery.",
+          "lat": 6.027618,
+          "lng": 1.536364
+        },
+        {
+          "title": "Being#010",
+          "Being": "#010",
+          "Date": "6 January",
+          "Location": "Loma Mountains, Sierra Leone",
+          "PhysicalAppearance":  "Masculine. Golden skin and hair",
+          "Height": "1.62m",
+          "Wingspan": "2.32m",
+          "AdditionalInfo": "Body discovered by Red Colobus monkeys, who had removed many of the feathers by the time it was retrieved. The Being was unusual in that its blood was a dark metallic red, unlike the usual gold.",
+          "lat": 9.189875,
+          "lng": -11.116643
+        }
+    ];
