@@ -14,7 +14,7 @@ html, body {
   position: absolute;
   top: 0;
   width: 300px;
-  height: 400px;
+  height: 410px;
   margin: 25px;
 }
 
@@ -53,14 +53,36 @@ h2 {
 p {
   text-align: center;
   padding: 0 14px;
-font-size: 14px;
-margin: 0;
-line-height: 1.5;
-  /*font-size: 2vmin;*/
+  font-size: 14px;
+  margin: 0;
+  line-height: 1.5;
 }
 
 a {
-  color: #000;
+  text-decoration: none;
+}
+
+#ootb {
+  color: #2C238A;
+}
+
+#twitter {
+  color: #4EABE4;
+}
+
+#goodreads {
+  color: #555;
+  background-image: linear-gradient(#E8E8E8, silver);
+  border-radius: 3.01px;
+  padding: 4px 10px;
+}
+
+#amazon {
+  text-decoration: none;
+  color: #A85400;
+  background-image: linear-gradient(#FFCD07, #E19B16);
+  border-radius: 3.01px;
+  padding: 4px 10px;
 }
 
 /*Map*/
