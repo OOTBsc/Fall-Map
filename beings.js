@@ -6,7 +6,7 @@ var beings = [{
     "PhysicalAppearance": "Masculine. Silver hair and skin",
     "Height": "1.89m",
     "Wingspan": "2.55m",
-    "AdditionalInfo": "Fall caught on camera by Roberto Bartolucci, an Italian tourist. The video quickly became the most-watched in internet history.",
+    "AdditionalInfo": "Fall caught on camera by Roberto Bartolucci, an Italian tourist. The video quickly became the most-watched in internet history. Body sold to Russian billionaire Viktor Gerasimov for an undisclosed sum.",
     "lat": 31.181141,
     "lng": 121.493981
   },
@@ -102,7 +102,7 @@ var beings = [{
     "PhysicalAppearance": "Feminine. Silver skin, white hair",
     "Height": "1.88m",
     "Wingspan": "2.66m",
-    "AdditionalInfo": "Fall happened too far from shore for anyone to witness it, but a 6-year-old girl named Adjo Talakaena saw it happen in a dream. Her father took her out on his boat and Adio was able to recover the body. She was later invited onto Ellen to discuss the discovery.",
+    "AdditionalInfo": "Fall happened too far from shore for anyone to witness it, but a 6-year-old girl named Adjo Talakaena saw it happen in a dream. Her father took her out on his boat and Adjo was able to recover the body. She was later invited onto Ellen to discuss the discovery.",
     "lat": 6.027618,
     "lng": 1.536364
   },
@@ -162,7 +162,7 @@ var beings = [{
     "PhysicalAppearance": "Feminine. Metallic orange skin, golden hair.",
     "Height": "1.74m",
     "Wingspan": "2.97m",
-    "AdditionalInfo": "Fall witnessed by an elderly couple, Diego Ramírez and Ana María Fonseca. Deeply religious, they chose to give the Being a dignified burial rather than selling its body. The site of the grave is unknown.",
+    "AdditionalInfo": "Fall witnessed by an elderly couple, Diego Ramírez and Ana María Fonseca, who retrieved the body. Deeply religious, they chose to give the Being a dignified burial rather than selling it. The site of the grave is unknown.",
     "lat": 23.216126,
     "lng": -106.428803
   },
@@ -234,7 +234,7 @@ var beings = [{
     "PhysicalAppearance": "Feminine. Copper skin, no hair.",
     "Height": "1.6m",
     "Wingspan": "2.56m",
-    "AdditionalInfo": "Body retrieved by the Royal Saudi Navy. The Being had lost most of its wings mid-flight and was reported as selling for a relatively low price to a research centre in the United Arab Emirates.",
+    "AdditionalInfo": "Body retrieved by the Royal Saudi Navy. The Being had lost most of its feathers mid-flight and reportedly sold for a relatively low price to a research centre in the United Arab Emirates.",
     "lat": 19.118371,
     "lng": 41.045056
   }
